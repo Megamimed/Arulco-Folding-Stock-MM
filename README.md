@@ -1,0 +1,1 @@
+I have only modified the JA2_Options, Items folder, LOBOTS and Data-Graphics to match what I have in my Urban Chaos patch. This means it runs on the latest experimental with Lobots (16/05/2025) but given the items.xml comes straight from UC there may be some weirdness with inventories and stuff. 
