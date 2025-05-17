@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<INVENTORYLIST>
+	<!-- Shirts and pants -->
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>1607</sItemIndex><!-- Blue shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>1608</sItemIndex><!-- Brown shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>1609</sItemIndex><!-- Green shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3</uiIndex>
+		<sItemIndex>1610</sItemIndex><!-- Grey shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4</uiIndex>
+		<sItemIndex>1612</sItemIndex><!-- White shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>5</uiIndex>
+		<sItemIndex>1613</sItemIndex><!-- Purple shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>6</uiIndex>
+		<sItemIndex>1615</sItemIndex><!-- Jean shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>7</uiIndex>
+		<sItemIndex>1616</sItemIndex><!-- Light green shirt -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>8</uiIndex>
+		<sItemIndex>1617</sItemIndex><!-- Beige pants -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>9</uiIndex>
+		<sItemIndex>1619</sItemIndex><!-- Bluejeans -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>10</uiIndex>
+		<sItemIndex>1621</sItemIndex><!-- Jean pants -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>11</uiIndex>
+		<sItemIndex>1622</sItemIndex><!-- Tan pants -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>	
+	<!-- Leather and kinky stuff -->
+	<INVENTORY>
+		<uiIndex>12</uiIndex>
+		<sItemIndex>188</sItemIndex><!-- Leather Jacket -->
+		<ubOptimalNumber>7</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>13</uiIndex>
+		<sItemIndex>189</sItemIndex><!-- Leather & Kevlar Jacket -->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>14</uiIndex>
+		<sItemIndex>190</sItemIndex><!-- Treated Leather & Kevlar Jacket -->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>15</uiIndex>
+		<sItemIndex>191</sItemIndex><!-- Coated Leather & Kevlar Jacket -->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>16</uiIndex>
+		<sItemIndex>1720</sItemIndex><!-- Tactical Sling -->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>17</uiIndex>
+		<sItemIndex>1625</sItemIndex><!-- Handcuffs -->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>	
+	<!-- MOLLE LBE gear (normal LBE can be found at Tina) -->
+	<INVENTORY>
+		<uiIndex>18</uiIndex>
+		<sItemIndex>1641</sItemIndex><!-- Large Holster -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>19</uiIndex>
+		<sItemIndex>1642</sItemIndex><!-- Shotgun holster -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>20</uiIndex>
+		<sItemIndex>1643</sItemIndex><!-- SMG Leg Rig -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>21</uiIndex>
+		<sItemIndex>1644</sItemIndex><!-- Leg Rig Throwing Knives -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>23</uiIndex>
+		<sItemIndex>1645</sItemIndex><!-- Pistol Magazines -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>24</uiIndex>
+		<sItemIndex>1646</sItemIndex><!-- Equipment Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>25</uiIndex>
+		<sItemIndex>1647</sItemIndex><!-- Bomb Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>26</uiIndex>
+		<sItemIndex>1648</sItemIndex><!-- 12g Shotgun Rig -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>27</uiIndex>
+		<sItemIndex>1649</sItemIndex><!-- 3.11 Thigh Rig -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>28</uiIndex>
+		<sItemIndex>1650</sItemIndex><!-- 3.11 Horizontal Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>29</uiIndex>
+		<sItemIndex>1651</sItemIndex><!-- 3.11 Tactical Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>30</uiIndex>
+		<sItemIndex>1652</sItemIndex><!-- 3.11 Ammo Belt -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>31</uiIndex>
+		<sItemIndex>1653</sItemIndex><!-- 3.11 Holster Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>32</uiIndex>
+		<sItemIndex>1654</sItemIndex><!-- 3.11 Mini Frag Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>33</uiIndex>
+		<sItemIndex>1655</sItemIndex><!-- Double MP5 Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>34</uiIndex>
+		<sItemIndex>1656</sItemIndex><!-- 3.11 H2O Carrier -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>35</uiIndex>
+		<sItemIndex>1657</sItemIndex><!-- 3.11 Single Mag Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>36</uiIndex>
+		<sItemIndex>1658</sItemIndex><!-- 3.11 Med Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>37</uiIndex>
+		<sItemIndex>1659</sItemIndex><!-- 3.11 Double Pistol Mag -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>38</uiIndex>
+		<sItemIndex>1660</sItemIndex><!-- Nylon Knife Sheath -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>39</uiIndex>
+		<sItemIndex>1661</sItemIndex><!-- 3.11 Explosives Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>40</uiIndex>
+		<sItemIndex>1662</sItemIndex><!-- 3.11 Syringe Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>41</uiIndex>
+		<sItemIndex>1663</sItemIndex><!-- 7 RD Shotgun Bandolier -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>42</uiIndex>
+		<sItemIndex>1664</sItemIndex><!-- Document Drop Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>43</uiIndex>
+		<sItemIndex>1665</sItemIndex><!-- Drop Leg Holster -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>44</uiIndex>
+		<sItemIndex>1666</sItemIndex><!-- Casualty Response Kit -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>45</uiIndex>
+		<sItemIndex>1667</sItemIndex><!-- Black Modular Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>46</uiIndex>
+		<sItemIndex>1668</sItemIndex><!-- Multicam Molle Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>47</uiIndex>
+		<sItemIndex>1669</sItemIndex><!-- Throwing Knife Sheath -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>48</uiIndex>
+		<sItemIndex>1670</sItemIndex><!-- 3.11 Shotgun Ammo Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>49</uiIndex>
+		<sItemIndex>1671</sItemIndex><!-- Small Drop Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>50</uiIndex>
+		<sItemIndex>1672</sItemIndex><!-- Sniper Ammo Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>51</uiIndex>
+		<sItemIndex>1673</sItemIndex><!-- Rifle Ammo Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>52</uiIndex>
+		<sItemIndex>1674</sItemIndex><!-- Leather Knife Sheath -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>53</uiIndex>
+		<sItemIndex>1675</sItemIndex><!-- Revolver Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>54</uiIndex>
+		<sItemIndex>1676</sItemIndex><!-- Specter Thigh Rig -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>55</uiIndex>
+		<sItemIndex>1677</sItemIndex><!-- Russian Pistol holster -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>56</uiIndex>
+		<sItemIndex>1678</sItemIndex><!-- 3.11 Rifle Grenade -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>57</uiIndex>
+		<sItemIndex>1679</sItemIndex><!-- 3.11 Single Pistol Mag -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>58</uiIndex>
+		<sItemIndex>1680</sItemIndex><!-- Modular AR Mag -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>59</uiIndex>
+		<sItemIndex>1681</sItemIndex><!-- Kit Drop Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>60</uiIndex>
+		<sItemIndex>1682</sItemIndex><!-- TT Modular Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>61</uiIndex>
+		<sItemIndex>1683</sItemIndex><!-- S.T.R.I.K.E. Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>62</uiIndex>
+		<sItemIndex>1684</sItemIndex><!-- Medium Drop Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>63</uiIndex>
+		<sItemIndex>1685</sItemIndex><!-- 3.11 Large Mag -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>64</uiIndex>
+		<sItemIndex>1686</sItemIndex><!-- Triple Grenade Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>65</uiIndex>
+		<sItemIndex>1687</sItemIndex><!-- Triple Flashbang Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>66</uiIndex>
+		<sItemIndex>1688</sItemIndex><!-- Triple Pistol Mag Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>67</uiIndex>
+		<sItemIndex>1689</sItemIndex><!-- Triple SMG Mag Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>68</uiIndex>
+		<sItemIndex>1690</sItemIndex><!-- Large Modular Thigh Rig -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>69</uiIndex>
+		<sItemIndex>1691</sItemIndex><!-- Sniper Drag Bag -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>70</uiIndex>
+		<sItemIndex>1692</sItemIndex><!-- Sporting Clay Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>71</uiIndex>
+		<sItemIndex>1693</sItemIndex><!-- Condor Assault Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>72</uiIndex>
+		<sItemIndex>1694</sItemIndex><!-- Archer Assault Vest -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>73</uiIndex>
+		<sItemIndex>778</sItemIndex><!-- Carabiner -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>74</uiIndex>
+		<sItemIndex>1696</sItemIndex><!-- Double Grenade Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>75</uiIndex>
+		<sItemIndex>1705</sItemIndex><!-- ILBE Gen II Main Ruck -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>76</uiIndex>
+		<sItemIndex>1706</sItemIndex><!-- ILBE Gen II Assault -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>77</uiIndex>
+		<sItemIndex>1707</sItemIndex><!-- TT Extended Range -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>78</uiIndex>
+		<sItemIndex>1708</sItemIndex><!-- TT Modular Pack -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>79</uiIndex>
+		<sItemIndex>1715</sItemIndex><!-- Hydration Bladder -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>80</uiIndex>
+		<sItemIndex>1716</sItemIndex><!-- ArmorBak Carrier -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>81</uiIndex>
+		<sItemIndex>1717</sItemIndex><!-- Speed Loader -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>82</uiIndex>
+		<sItemIndex>1718</sItemIndex><!-- Single Rifle Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>83</uiIndex>
+		<sItemIndex>1719</sItemIndex><!-- Drum Ammo Pouch -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>84</uiIndex>
+		<sItemIndex>1720</sItemIndex><!-- Tactical Sling -->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>	
+</INVENTORYLIST>
