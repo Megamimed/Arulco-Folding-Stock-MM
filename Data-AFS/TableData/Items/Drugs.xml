@@ -36,9 +36,6 @@ Note: Currently only one such effect per time is allowed, additional effects ove
 		PSYCHO					7
 		DEAF					8
 		SHORTSIGHTED			9
-		HEMOPHILIAC				10
-		AFRAID_OF_HEIGHTS		11
-		SELF_HARM				12
 		
 <duration> 				is how many turns this lasts
 If <chance> is set, this is the chance that this effect is applied when consuming drug
@@ -805,21 +802,5 @@ If <chance> is set, this is the chance that this effect is applied when consumin
 			<size>100</size>
 			<chance>3</chance>
 		</DISEASE_EFFECT>
-	</DRUG>
-	<DRUG>
-		<!-- Taser shock without any health damage-->
-		<uiIndex>21</uiIndex>
-		<szName>Taser shock</szName>
-		<!-- breath damage - each turn all breath is removed -->
-		<DRUG_EFFECT>
-			<effect>1</effect>
-			<duration>10</duration>
-			<size>-10000</size>
-		</DRUG_EFFECT>
-				
-		<DISABILITY_EFFECT>
-			<disability>6</disability>
-			<duration>30</duration>
-		</DISABILITY_EFFECT>
 	</DRUG>
 </DRUGSLIST>

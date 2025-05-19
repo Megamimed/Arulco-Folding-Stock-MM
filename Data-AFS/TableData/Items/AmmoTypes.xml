@@ -51,7 +51,6 @@
 	<dDamageModifierArmouredVehicle>		additional multiplier for damage to health if target is not a tank but armed vehicle or robot
 	<dDamageModifierCivilianVehicle>		additional multiplier for damage to health if target is unarmed vehicle
 	<dDamageModifierZombie>					additional multiplier for damage to health if target is zombie
-	<shotAnimation> 	allows defining custom shot animation, for example add <shotAnimation>TILECACHE\MINIBOOM.sti</shotAnimation>
 -->	
 <AMMOTYPELIST>
 	<AMMOTYPE>
@@ -241,9 +240,9 @@
 	<AMMOTYPE>
 		<uiIndex>4</uiIndex>
 		<name>Buckshot</name>
-		<red>0</red>
-		<green>80</green>
-		<blue>200</blue>
+		<red>190</red>
+		<green>157</green>
+		<blue>103</blue>
 		<fontColour>125</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -1207,9 +1206,9 @@
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
 		<name>Lock Buster</name>
-		<red>217</red>
-		<green>217</green>
-		<blue>217</blue>
+		<red>245</red>
+		<green>245</green>
+		<blue>220</blue>
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -1435,9 +1434,9 @@
 	<AMMOTYPE>
 		<uiIndex>30</uiIndex>
 		<name>Grenade Stun</name>
-		<red>137</red>
-		<green>137</green>
-		<blue>137</blue>
+		<red>105</red>
+		<green>105</green>
+		<blue>105</blue>
 		<fontColour>136</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -1619,9 +1618,9 @@
 	<AMMOTYPE>
 		<uiIndex>34</uiIndex>
 		<name>Grenade Smoke</name>
-		<red>217</red>
-		<green>217</green>
-		<blue>217</blue>
+		<red>160</red>
+		<green>82</green>
+		<blue>45</blue>
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -1804,7 +1803,7 @@
 		<uiIndex>38</uiIndex>
 		<name>12g Incendiary</name>
 		<red>255</red>
-		<green>127</green>
+		<green>0</green>
 		<blue>0</blue>
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
@@ -1849,9 +1848,9 @@
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
 		<name>12g Tear Gas</name>
-		<red>60</red>
-		<green>120</green>
-		<blue>150</blue>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<fontColour>136</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -2263,9 +2262,9 @@
 	<AMMOTYPE>
 		<uiIndex>48</uiIndex>
 		<name>12g Duplex</name>
-		<red>57</red>
-		<green>148</green>
-		<blue>59</blue>
+		<red>0</red>
+		<green>206</green>
+		<blue>0</blue>
 		<fontColour>184</fontColour>
 		<grayed>1</grayed>
 		<offNormal>1</offNormal>
@@ -2677,9 +2676,9 @@
 	<AMMOTYPE>
 		<uiIndex>57</uiIndex>
 		<name>Baton</name>
-		<red>255</red>
-		<green>255</green>
-		<blue>255</blue>
+		<red>140</red>
+		<green>213</green>
+		<blue>0</blue>
 		<fontColour>155</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -2712,7 +2711,7 @@
 		<dirtModificator>0.15</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.3</dDamageModifierLife>
-		<dDamageModifierBreath>8.0</dDamageModifierBreath>
+		<dDamageModifierBreath>1.3</dDamageModifierBreath>
 		<dDamageModifierTank>0.0</dDamageModifierTank>
 		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
 		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
@@ -2721,9 +2720,9 @@
 	<AMMOTYPE>
 		<uiIndex>58</uiIndex>
 		<name>Flashbang</name>
-		<red>77</red>
-		<green>235</green>
-		<blue>2</blue>
+		<red>57</red>
+		<green>79</green>
+		<blue>225</blue>
 		<fontColour>24</fontColour>
 		<grayed>12</grayed>
 		<offNormal>9</offNormal>
@@ -2997,9 +2996,9 @@
 	<AMMOTYPE>
 		<uiIndex>64</uiIndex>
 		<name>410b Buckshot</name>
-		<red>0</red>
-		<green>80</green>
-		<blue>200</blue>
+		<red>190</red>
+		<green>157</green>
+		<blue>103</blue>
 		<fontColour>125</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -3044,7 +3043,7 @@
 		<uiIndex>65</uiIndex>
 		<name>410b Incendiary</name>
 		<red>255</red>
-		<green>127</green>
+		<green>0</green>
 		<blue>0</blue>
 		<fontColour>163</fontColour>
 		<grayed>8</grayed>
@@ -3089,9 +3088,9 @@
 	<AMMOTYPE>
 		<uiIndex>66</uiIndex>
 		<name>410b Tear Gas</name>
-		<red>60</red>
-		<green>120</green>
-		<blue>150</blue>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<fontColour>136</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -3444,52 +3443,6 @@
 		<dDamageModifierTank>0.0</dDamageModifierTank>
 		<dDamageModifierArmouredVehicle>0.7</dDamageModifierArmouredVehicle>
 		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
-		<dDamageModifierZombie>1.0</dDamageModifierZombie>
-	</AMMOTYPE>
-	<AMMOTYPE>
-		<uiIndex>74</uiIndex>
-		<name>Taser</name>
-		<red>137</red>
-		<green>137</green>
-		<blue>137</blue>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
-		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
-		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
-		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
-		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
-		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
-		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
-		<zeroMinimumDamage>1</zeroMinimumDamage>
-		<canGoThrough>0</canGoThrough>
-		<standardIssue>1</standardIssue>
-		<numberOfBullets>1</numberOfBullets>
-		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
-		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>0</highExplosive>
-		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
-		<dart>1</dart>
-		<knife>0</knife>
-		<monsterSpit>0</monsterSpit>
-		<acidic>0</acidic>
-		<ignoreArmour>1</ignoreArmour>
-		<lockBustingPower>0</lockBustingPower>
-		<tracerEffect>0</tracerEffect>
-		<spreadPattern />
-		<temperatureModificator>0</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
-		<dirtModificator>0</dirtModificator>
-		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0.3</dDamageModifierLife>
-		<dDamageModifierBreath>8.0</dDamageModifierBreath>
-		<dDamageModifierTank>0.0</dDamageModifierTank>
-		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
-		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
 		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 </AMMOTYPELIST>

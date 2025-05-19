@@ -10,16 +10,16 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>37</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>37</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -27,23 +27,23 @@
 	<MERGE>
 		<firstItemIndex>37</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>38</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>38</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -51,71 +51,23 @@
 	<MERGE>
 		<firstItemIndex>38</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>39</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>39</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>39</firstItemIndex>
-		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>42</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>42</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>42</firstItemIndex>
-		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>54</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>54</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -123,14 +75,14 @@
 	<MERGE>
 		<firstItemIndex>54</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>64</firstItemIndex>
-		<secondItemIndex>48</secondItemIndex>
+		<secondItemIndex>1427</secondItemIndex>
 		<firstResultingItemIndex>1138</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
@@ -138,7 +90,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>64</firstItemIndex>
-		<secondItemIndex>116</secondItemIndex>
+		<secondItemIndex>1428</secondItemIndex>
 		<firstResultingItemIndex>1141</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
@@ -146,7 +98,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>64</firstItemIndex>
-		<secondItemIndex>117</secondItemIndex>
+		<secondItemIndex>1429</secondItemIndex>
 		<firstResultingItemIndex>1142</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
@@ -158,6 +110,22 @@
 		<firstResultingItemIndex>2506</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>136</firstItemIndex>
+		<secondItemIndex>137</secondItemIndex>
+		<firstResultingItemIndex>138</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>3</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>136</firstItemIndex>
+		<secondItemIndex>139</secondItemIndex>
+		<firstResultingItemIndex>142</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>3</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
@@ -178,40 +146,32 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>9</secondItemIndex>
-		<firstResultingItemIndex>9</firstResultingItemIndex>
+		<secondItemIndex>4039</secondItemIndex>
+		<firstResultingItemIndex>4039</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>15</secondItemIndex>
-		<firstResultingItemIndex>15</firstResultingItemIndex>
+		<secondItemIndex>4040</secondItemIndex>
+		<firstResultingItemIndex>4040</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>23</secondItemIndex>
-		<firstResultingItemIndex>23</firstResultingItemIndex>
+		<secondItemIndex>4167</secondItemIndex>
+		<firstResultingItemIndex>4167</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>33</secondItemIndex>
-		<firstResultingItemIndex>33</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>34</secondItemIndex>
-		<firstResultingItemIndex>34</firstResultingItemIndex>
+		<secondItemIndex>4662</secondItemIndex>
+		<firstResultingItemIndex>4662</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -226,24 +186,32 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>36</secondItemIndex>
-		<firstResultingItemIndex>36</firstResultingItemIndex>
+		<secondItemIndex>4871</secondItemIndex>
+		<firstResultingItemIndex>4871</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>65</secondItemIndex>
-		<firstResultingItemIndex>65</firstResultingItemIndex>
+		<secondItemIndex>4810</secondItemIndex>
+		<firstResultingItemIndex>4810</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>67</secondItemIndex>
-		<firstResultingItemIndex>67</firstResultingItemIndex>
+		<secondItemIndex>4338</secondItemIndex>
+		<firstResultingItemIndex>4338</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>203</firstItemIndex>
+		<secondItemIndex>1426</secondItemIndex>
+		<firstResultingItemIndex>1426</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -498,8 +466,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4194</secondItemIndex>
-		<firstResultingItemIndex>4194</firstResultingItemIndex>
+		<secondItemIndex>4</secondItemIndex>
+		<firstResultingItemIndex>4</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -602,8 +570,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4415</secondItemIndex>
-		<firstResultingItemIndex>4415</firstResultingItemIndex>
+		<secondItemIndex>24</secondItemIndex>
+		<firstResultingItemIndex>24</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -618,8 +586,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4446</secondItemIndex>
-		<firstResultingItemIndex>4446</firstResultingItemIndex>
+		<secondItemIndex>36</secondItemIndex>
+		<firstResultingItemIndex>36</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -674,16 +642,16 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4561</secondItemIndex>
-		<firstResultingItemIndex>4561</firstResultingItemIndex>
+		<secondItemIndex>33</secondItemIndex>
+		<firstResultingItemIndex>33</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4562</secondItemIndex>
-		<firstResultingItemIndex>4562</firstResultingItemIndex>
+		<secondItemIndex>30</secondItemIndex>
+		<firstResultingItemIndex>30</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -850,8 +818,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>203</firstItemIndex>
-		<secondItemIndex>4979</secondItemIndex>
-		<firstResultingItemIndex>4979</firstResultingItemIndex>
+		<secondItemIndex>20</secondItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -1051,89 +1019,241 @@
 	<MERGE>
 		<firstItemIndex>216</firstItemIndex>
 		<secondItemIndex>189</secondItemIndex>
+		<firstResultingItemIndex>190</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>177</secondItemIndex>
+		<firstResultingItemIndex>178</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>806</secondItemIndex>
+		<firstResultingItemIndex>807</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>180</secondItemIndex>
+		<firstResultingItemIndex>181</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>813</secondItemIndex>
+		<firstResultingItemIndex>814</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>161</secondItemIndex>
+		<firstResultingItemIndex>162</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>164</secondItemIndex>
+		<firstResultingItemIndex>165</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>832</secondItemIndex>
+		<firstResultingItemIndex>833</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>167</secondItemIndex>
+		<firstResultingItemIndex>168</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>841</secondItemIndex>
+		<firstResultingItemIndex>842</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>196</secondItemIndex>
+		<firstResultingItemIndex>197</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>170</secondItemIndex>
+		<firstResultingItemIndex>171</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>861</secondItemIndex>
+		<firstResultingItemIndex>862</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>173</secondItemIndex>
+		<firstResultingItemIndex>174</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>216</firstItemIndex>
+		<secondItemIndex>867</secondItemIndex>
+		<firstResultingItemIndex>868</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>189</secondItemIndex>
 		<firstResultingItemIndex>191</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>216</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
-		<firstResultingItemIndex>192</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>216</firstItemIndex>
-		<secondItemIndex>838</secondItemIndex>
-		<firstResultingItemIndex>189</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>216</firstItemIndex>
-		<secondItemIndex>841</secondItemIndex>
-		<firstResultingItemIndex>189</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>216</firstItemIndex>
-		<secondItemIndex>864</secondItemIndex>
-		<firstResultingItemIndex>174</firstResultingItemIndex>
-		<secondResultingItemIndex>757</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>216</firstItemIndex>
-		<secondItemIndex>867</secondItemIndex>
-		<firstResultingItemIndex>174</firstResultingItemIndex>
-		<secondResultingItemIndex>757</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<mergeType>2</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>217</firstItemIndex>
-		<secondItemIndex>838</secondItemIndex>
+		<secondItemIndex>177</secondItemIndex>
+		<firstResultingItemIndex>179</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>806</secondItemIndex>
+		<firstResultingItemIndex>808</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>180</secondItemIndex>
+		<firstResultingItemIndex>182</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>813</secondItemIndex>
+		<firstResultingItemIndex>815</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>161</secondItemIndex>
+		<firstResultingItemIndex>163</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>164</secondItemIndex>
+		<firstResultingItemIndex>166</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>832</secondItemIndex>
+		<firstResultingItemIndex>834</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>167</secondItemIndex>
 		<firstResultingItemIndex>169</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<mergeType>2</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>217</firstItemIndex>
 		<secondItemIndex>841</secondItemIndex>
-		<firstResultingItemIndex>169</firstResultingItemIndex>
+		<firstResultingItemIndex>843</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<mergeType>2</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>217</firstItemIndex>
-		<secondItemIndex>864</secondItemIndex>
+		<secondItemIndex>196</secondItemIndex>
+		<firstResultingItemIndex>198</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>170</secondItemIndex>
+		<firstResultingItemIndex>172</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>861</secondItemIndex>
+		<firstResultingItemIndex>863</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>217</firstItemIndex>
+		<secondItemIndex>173</secondItemIndex>
 		<firstResultingItemIndex>175</firstResultingItemIndex>
-		<secondResultingItemIndex>755</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>2</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>217</firstItemIndex>
 		<secondItemIndex>867</secondItemIndex>
-		<firstResultingItemIndex>175</firstResultingItemIndex>
-		<secondResultingItemIndex>755</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>228</firstItemIndex>
-		<secondItemIndex>317</secondItemIndex>
-		<firstResultingItemIndex>313</firstResultingItemIndex>
+		<firstResultingItemIndex>869</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<mergeType>2</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
@@ -1163,60 +1283,12 @@
 	</MERGE>
 	<!--	May 2019	-->
 	<MERGE>
-		<firstItemIndex>255</firstItemIndex>
-		<secondItemIndex>236</secondItemIndex>
-		<firstResultingItemIndex>235</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>255</firstItemIndex>
-		<secondItemIndex>237</secondItemIndex>
-		<firstResultingItemIndex>235</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>255</firstItemIndex>
-		<secondItemIndex>238</secondItemIndex>
-		<firstResultingItemIndex>235</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>255</firstItemIndex>
-		<secondItemIndex>304</secondItemIndex>
-		<firstResultingItemIndex>222</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>256</firstItemIndex>
 		<secondItemIndex>256</secondItemIndex>
 		<firstResultingItemIndex>256</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>1</mergeType>
 		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>267</firstItemIndex>
-		<secondItemIndex>214</secondItemIndex>
-		<firstResultingItemIndex>267</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>267</firstItemIndex>
-		<secondItemIndex>334</secondItemIndex>
-		<firstResultingItemIndex>334</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>305</firstItemIndex>
@@ -1235,197 +1307,51 @@
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>308</firstItemIndex>
-		<secondItemIndex>47</secondItemIndex>
-		<firstResultingItemIndex>45</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>308</firstItemIndex>
-		<secondItemIndex>69</secondItemIndex>
-		<firstResultingItemIndex>46</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>308</firstItemIndex>
-		<secondItemIndex>4272</secondItemIndex>
-		<firstResultingItemIndex>44</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>60</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>309</firstItemIndex>
-		<secondItemIndex>46</secondItemIndex>
-		<firstResultingItemIndex>45</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>309</firstItemIndex>
-		<secondItemIndex>69</secondItemIndex>
-		<firstResultingItemIndex>47</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>75</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>311</firstItemIndex>
-		<secondItemIndex>20</secondItemIndex>
-		<firstResultingItemIndex>4272</firstResultingItemIndex>
-		<secondResultingItemIndex>4267</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>120</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>311</firstItemIndex>
-		<secondItemIndex>4727</secondItemIndex>
-		<firstResultingItemIndex>4731</firstResultingItemIndex>
+		<secondItemIndex>312</secondItemIndex>
+		<firstResultingItemIndex>313</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
+		<mergeType>2</mergeType>
+		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>312</firstItemIndex>
-		<secondItemIndex>809</secondItemIndex>
-		<firstResultingItemIndex>178</firstResultingItemIndex>
+		<secondItemIndex>311</secondItemIndex>
+		<firstResultingItemIndex>313</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>312</firstItemIndex>
-		<secondItemIndex>813</secondItemIndex>
-		<firstResultingItemIndex>178</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>313</firstItemIndex>
-		<secondItemIndex>321</secondItemIndex>
-		<firstResultingItemIndex>229</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>25</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>314</firstItemIndex>
-		<secondItemIndex>205</secondItemIndex>
-		<firstResultingItemIndex>205</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>314</firstItemIndex>
-		<secondItemIndex>314</secondItemIndex>
-		<firstResultingItemIndex>314</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>314</firstItemIndex>
-		<secondItemIndex>896</secondItemIndex>
-		<firstResultingItemIndex>896</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>314</firstItemIndex>
-		<secondItemIndex>897</secondItemIndex>
-		<firstResultingItemIndex>897</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>1</mergeType>
-		<APCost>150</APCost>
+		<mergeType>2</mergeType>
+		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>315</firstItemIndex>
-		<secondItemIndex>44</secondItemIndex>
-		<firstResultingItemIndex>46</firstResultingItemIndex>
+		<secondItemIndex>316</secondItemIndex>
+		<firstResultingItemIndex>317</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>90</APCost>
+		<mergeType>5</mergeType>
+		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>315</firstItemIndex>
-		<secondItemIndex>4272</secondItemIndex>
-		<firstResultingItemIndex>69</firstResultingItemIndex>
+		<firstItemIndex>316</firstItemIndex>
+		<secondItemIndex>315</secondItemIndex>
+		<firstResultingItemIndex>317</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>90</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>315</firstItemIndex>
-		<secondItemIndex>4286</secondItemIndex>
-		<firstResultingItemIndex>55</firstResultingItemIndex>
-		<secondResultingItemIndex>566</secondResultingItemIndex>
-		<mergeType>4</mergeType>
+		<mergeType>5</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>317</firstItemIndex>
-		<secondItemIndex>228</secondItemIndex>
-		<firstResultingItemIndex>313</firstResultingItemIndex>
+		<secondItemIndex>321</secondItemIndex>
+		<firstResultingItemIndex>324</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>62</secondItemIndex>
-		<firstResultingItemIndex>38</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
+		<mergeType>5</mergeType>
 		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>245</secondItemIndex>
-		<firstResultingItemIndex>403</firstResultingItemIndex>
+		<firstItemIndex>321</firstItemIndex>
+		<secondItemIndex>317</secondItemIndex>
+		<firstResultingItemIndex>324</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>80</APCost>
-	</MERGE>
-	<!--	May 2019	-->
-	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>320</secondItemIndex>
-		<firstResultingItemIndex>1753</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>32</APCost>
-	</MERGE>
-	<!--	May 2019	-->
-	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>1312</secondItemIndex>
-		<firstResultingItemIndex>1311</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>1317</secondItemIndex>
-		<firstResultingItemIndex>1316</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>320</firstItemIndex>
-		<secondItemIndex>1319</secondItemIndex>
-		<firstResultingItemIndex>1318</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
+		<mergeType>5</mergeType>
 		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
@@ -1438,8 +1364,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>331</firstItemIndex>
-		<secondItemIndex>318</secondItemIndex>
-		<firstResultingItemIndex>324</firstResultingItemIndex>
+		<secondItemIndex>380</secondItemIndex>
+		<firstResultingItemIndex>386</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>5</mergeType>
 		<APCost>150</APCost>
@@ -1453,57 +1379,259 @@
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>373</firstItemIndex>
-		<secondItemIndex>374</secondItemIndex>
+		<firstItemIndex>364</firstItemIndex>
+		<secondItemIndex>379</secondItemIndex>
 		<firstResultingItemIndex>375</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>374</firstItemIndex>
-		<secondItemIndex>373</secondItemIndex>
-		<firstResultingItemIndex>375</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>8</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>377</firstItemIndex>
-		<secondItemIndex>378</secondItemIndex>
-		<firstResultingItemIndex>379</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>5</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>378</firstItemIndex>
-		<secondItemIndex>377</secondItemIndex>
-		<firstResultingItemIndex>379</firstResultingItemIndex>
+		<firstItemIndex>367</firstItemIndex>
+		<secondItemIndex>236</secondItemIndex>
+		<firstResultingItemIndex>366</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>5</mergeType>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>367</firstItemIndex>
+		<secondItemIndex>237</secondItemIndex>
+		<firstResultingItemIndex>366</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>367</firstItemIndex>
+		<secondItemIndex>238</secondItemIndex>
+		<firstResultingItemIndex>366</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>367</firstItemIndex>
+		<secondItemIndex>370</secondItemIndex>
+		<firstResultingItemIndex>361</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>368</firstItemIndex>
+		<secondItemIndex>214</secondItemIndex>
+		<firstResultingItemIndex>368</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>8</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>368</firstItemIndex>
+		<secondItemIndex>334</secondItemIndex>
+		<firstResultingItemIndex>334</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>371</firstItemIndex>
+		<secondItemIndex>1425</secondItemIndex>
+		<firstResultingItemIndex>1423</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>371</firstItemIndex>
+		<secondItemIndex>4276</secondItemIndex>
+		<firstResultingItemIndex>1424</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>371</firstItemIndex>
+		<secondItemIndex>4272</secondItemIndex>
+		<firstResultingItemIndex>1422</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>60</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>372</firstItemIndex>
+		<secondItemIndex>1424</secondItemIndex>
+		<firstResultingItemIndex>1423</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>372</firstItemIndex>
+		<secondItemIndex>4276</secondItemIndex>
+		<firstResultingItemIndex>1425</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>75</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>373</firstItemIndex>
+		<secondItemIndex>4264</secondItemIndex>
+		<firstResultingItemIndex>4272</firstResultingItemIndex>
+		<secondResultingItemIndex>4267</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>120</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>373</firstItemIndex>
+		<secondItemIndex>4727</secondItemIndex>
+		<firstResultingItemIndex>4731</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>374</firstItemIndex>
+		<secondItemIndex>180</secondItemIndex>
+		<firstResultingItemIndex>804</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>374</firstItemIndex>
+		<secondItemIndex>813</secondItemIndex>
+		<firstResultingItemIndex>804</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>375</firstItemIndex>
+		<secondItemIndex>383</secondItemIndex>
+		<firstResultingItemIndex>365</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>25</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>376</firstItemIndex>
+		<secondItemIndex>205</secondItemIndex>
+		<firstResultingItemIndex>205</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>376</firstItemIndex>
+		<secondItemIndex>376</secondItemIndex>
+		<firstResultingItemIndex>376</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>376</firstItemIndex>
+		<secondItemIndex>896</secondItemIndex>
+		<firstResultingItemIndex>896</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>376</firstItemIndex>
+		<secondItemIndex>897</secondItemIndex>
+		<firstResultingItemIndex>897</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>1</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>377</firstItemIndex>
+		<secondItemIndex>1422</secondItemIndex>
+		<firstResultingItemIndex>1424</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>90</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>377</firstItemIndex>
+		<secondItemIndex>4272</secondItemIndex>
+		<firstResultingItemIndex>4276</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>90</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>377</firstItemIndex>
+		<secondItemIndex>4286</secondItemIndex>
+		<firstResultingItemIndex>4284</firstResultingItemIndex>
+		<secondResultingItemIndex>566</secondResultingItemIndex>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>379</firstItemIndex>
-		<secondItemIndex>383</secondItemIndex>
-		<firstResultingItemIndex>386</firstResultingItemIndex>
+		<secondItemIndex>364</secondItemIndex>
+		<firstResultingItemIndex>375</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>5</mergeType>
+		<mergeType>4</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>62</secondItemIndex>
+		<firstResultingItemIndex>38</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
 		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>383</firstItemIndex>
-		<secondItemIndex>379</secondItemIndex>
-		<firstResultingItemIndex>386</firstResultingItemIndex>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>245</secondItemIndex>
+		<firstResultingItemIndex>403</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>5</mergeType>
+		<mergeType>4</mergeType>
+		<APCost>80</APCost>
+	</MERGE>
+	<!--	May 2019	-->
+	<MERGE>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>382</secondItemIndex>
+		<firstResultingItemIndex>1753</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>4</mergeType>
+		<APCost>32</APCost>
+	</MERGE>
+	<!--	May 2019	-->
+	<MERGE>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>1312</secondItemIndex>
+		<firstResultingItemIndex>1311</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>8</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>1317</secondItemIndex>
+		<firstResultingItemIndex>1316</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>8</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>382</firstItemIndex>
+		<secondItemIndex>1319</secondItemIndex>
+		<firstResultingItemIndex>1318</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
 		<APCost>8</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>392</firstItemIndex>
 		<secondItemIndex>391</secondItemIndex>
-		<firstResultingItemIndex>386</firstResultingItemIndex>
+		<firstResultingItemIndex>324</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>50</APCost>
@@ -1520,22 +1648,6 @@
 		<firstItemIndex>403</firstItemIndex>
 		<secondItemIndex>1147</secondItemIndex>
 		<firstResultingItemIndex>1152</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>419</firstItemIndex>
-		<secondItemIndex>137</secondItemIndex>
-		<firstResultingItemIndex>416</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>3</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>419</firstItemIndex>
-		<secondItemIndex>414</secondItemIndex>
-		<firstResultingItemIndex>139</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>3</mergeType>
 		<APCost>150</APCost>
@@ -1576,14 +1688,6 @@
 		<firstItemIndex>421</firstItemIndex>
 		<secondItemIndex>4791</secondItemIndex>
 		<firstResultingItemIndex>4792</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>421</firstItemIndex>
-		<secondItemIndex>4792</secondItemIndex>
-		<firstResultingItemIndex>4791</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -1696,14 +1800,6 @@
 		<firstItemIndex>422</firstItemIndex>
 		<secondItemIndex>4791</secondItemIndex>
 		<firstResultingItemIndex>4792</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>422</firstItemIndex>
-		<secondItemIndex>4792</secondItemIndex>
-		<firstResultingItemIndex>4791</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -1816,14 +1912,6 @@
 		<firstItemIndex>423</firstItemIndex>
 		<secondItemIndex>4791</secondItemIndex>
 		<firstResultingItemIndex>4792</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>6</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>423</firstItemIndex>
-		<secondItemIndex>4792</secondItemIndex>
-		<firstResultingItemIndex>4791</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -2014,7 +2102,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>463</firstItemIndex>
-		<secondItemIndex>4682</secondItemIndex>
+		<secondItemIndex>27</secondItemIndex>
 		<firstResultingItemIndex>4683</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2038,7 +2126,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>12</secondItemIndex>
+		<secondItemIndex>4815</secondItemIndex>
 		<firstResultingItemIndex>4817</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2054,7 +2142,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>16</secondItemIndex>
+		<secondItemIndex>4041</secondItemIndex>
 		<firstResultingItemIndex>4044</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2062,7 +2150,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>24</secondItemIndex>
+		<secondItemIndex>4077</secondItemIndex>
 		<firstResultingItemIndex>4079</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2086,7 +2174,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>28</secondItemIndex>
+		<secondItemIndex>4081</secondItemIndex>
 		<firstResultingItemIndex>4083</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2094,7 +2182,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>32</secondItemIndex>
+		<secondItemIndex>4901</secondItemIndex>
 		<firstResultingItemIndex>4902</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2102,7 +2190,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>467</firstItemIndex>
-		<secondItemIndex>34</secondItemIndex>
+		<secondItemIndex>35</secondItemIndex>
 		<firstResultingItemIndex>4876</firstResultingItemIndex>
 		<secondResultingItemIndex>422</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2606,7 +2694,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>468</firstItemIndex>
-		<secondItemIndex>4470</secondItemIndex>
+		<secondItemIndex>9</secondItemIndex>
 		<firstResultingItemIndex>4471</firstResultingItemIndex>
 		<secondResultingItemIndex>631</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -2870,8 +2958,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>481</firstItemIndex>
-		<secondItemIndex>56</secondItemIndex>
-		<firstResultingItemIndex>56</firstResultingItemIndex>
+		<secondItemIndex>4375</secondItemIndex>
+		<firstResultingItemIndex>4375</firstResultingItemIndex>
 		<secondResultingItemIndex>483</secondResultingItemIndex>
 		<mergeType>8</mergeType>
 		<APCost>70</APCost>
@@ -2902,8 +2990,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>481</firstItemIndex>
-		<secondItemIndex>4374</secondItemIndex>
-		<firstResultingItemIndex>4374</firstResultingItemIndex>
+		<secondItemIndex>34</secondItemIndex>
+		<firstResultingItemIndex>34</firstResultingItemIndex>
 		<secondResultingItemIndex>483</secondResultingItemIndex>
 		<mergeType>8</mergeType>
 		<APCost>70</APCost>
@@ -3070,8 +3158,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>482</firstItemIndex>
-		<secondItemIndex>4446</secondItemIndex>
-		<firstResultingItemIndex>4446</firstResultingItemIndex>
+		<secondItemIndex>36</secondItemIndex>
+		<firstResultingItemIndex>36</firstResultingItemIndex>
 		<secondResultingItemIndex>483</secondResultingItemIndex>
 		<mergeType>8</mergeType>
 		<APCost>70</APCost>
@@ -3103,7 +3191,7 @@
 	<MERGE>
 		<firstItemIndex>482</firstItemIndex>
 		<secondItemIndex>5370</secondItemIndex>
-		<firstResultingItemIndex>4446</firstResultingItemIndex>
+		<firstResultingItemIndex>36</firstResultingItemIndex>
 		<secondResultingItemIndex>5369</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -3111,7 +3199,7 @@
 	<MERGE>
 		<firstItemIndex>482</firstItemIndex>
 		<secondItemIndex>5371</secondItemIndex>
-		<firstResultingItemIndex>4446</firstResultingItemIndex>
+		<firstResultingItemIndex>36</firstResultingItemIndex>
 		<secondResultingItemIndex>5369</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -3174,7 +3262,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>489</firstItemIndex>
-		<secondItemIndex>4453</secondItemIndex>
+		<secondItemIndex>13</secondItemIndex>
 		<firstResultingItemIndex>4452</firstResultingItemIndex>
 		<secondResultingItemIndex>490</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3191,7 +3279,7 @@
 	<MERGE>
 		<firstItemIndex>489</firstItemIndex>
 		<secondItemIndex>4459</secondItemIndex>
-		<firstResultingItemIndex>4458</firstResultingItemIndex>
+		<firstResultingItemIndex>21</firstResultingItemIndex>
 		<secondResultingItemIndex>490</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -3199,7 +3287,7 @@
 	<MERGE>
 		<firstItemIndex>489</firstItemIndex>
 		<secondItemIndex>4462</secondItemIndex>
-		<firstResultingItemIndex>22</firstResultingItemIndex>
+		<firstResultingItemIndex>4461</firstResultingItemIndex>
 		<secondResultingItemIndex>490</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -3294,7 +3382,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>490</firstItemIndex>
-		<secondItemIndex>22</secondItemIndex>
+		<secondItemIndex>4461</secondItemIndex>
 		<firstResultingItemIndex>4462</firstResultingItemIndex>
 		<secondResultingItemIndex>489</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3335,7 +3423,7 @@
 	<MERGE>
 		<firstItemIndex>490</firstItemIndex>
 		<secondItemIndex>4452</secondItemIndex>
-		<firstResultingItemIndex>4453</firstResultingItemIndex>
+		<firstResultingItemIndex>13</firstResultingItemIndex>
 		<secondResultingItemIndex>489</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -3350,7 +3438,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>490</firstItemIndex>
-		<secondItemIndex>4458</secondItemIndex>
+		<secondItemIndex>21</secondItemIndex>
 		<firstResultingItemIndex>4459</firstResultingItemIndex>
 		<secondResultingItemIndex>489</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3438,7 +3526,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>491</firstItemIndex>
-		<secondItemIndex>16</secondItemIndex>
+		<secondItemIndex>4041</secondItemIndex>
 		<firstResultingItemIndex>4045</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3446,7 +3534,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>491</firstItemIndex>
-		<secondItemIndex>24</secondItemIndex>
+		<secondItemIndex>4077</secondItemIndex>
 		<firstResultingItemIndex>4080</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3470,7 +3558,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>491</firstItemIndex>
-		<secondItemIndex>28</secondItemIndex>
+		<secondItemIndex>4081</secondItemIndex>
 		<firstResultingItemIndex>4084</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -3478,7 +3566,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>491</firstItemIndex>
-		<secondItemIndex>32</secondItemIndex>
+		<secondItemIndex>4901</secondItemIndex>
 		<firstResultingItemIndex>4903</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7014,7 +7102,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>735</firstItemIndex>
-		<secondItemIndex>162</secondItemIndex>
+		<secondItemIndex>827</secondItemIndex>
 		<firstResultingItemIndex>705</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
@@ -7022,7 +7110,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>735</firstItemIndex>
-		<secondItemIndex>194</secondItemIndex>
+		<secondItemIndex>854</secondItemIndex>
 		<firstResultingItemIndex>705</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>2</mergeType>
@@ -7046,7 +7134,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>735</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>763</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7054,7 +7142,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>766</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>761</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7062,7 +7150,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>781</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>760</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7070,247 +7158,87 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>193</secondItemIndex>
-		<firstResultingItemIndex>836</firstResultingItemIndex>
+		<secondItemIndex>756</secondItemIndex>
+		<firstResultingItemIndex>758</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>803</secondItemIndex>
-		<firstResultingItemIndex>804</firstResultingItemIndex>
+		<secondItemIndex>758</secondItemIndex>
+		<firstResultingItemIndex>759</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>806</secondItemIndex>
-		<firstResultingItemIndex>807</firstResultingItemIndex>
+		<secondItemIndex>167</secondItemIndex>
+		<firstResultingItemIndex>756</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>809</secondItemIndex>
-		<firstResultingItemIndex>811</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>813</secondItemIndex>
-		<firstResultingItemIndex>814</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>826</secondItemIndex>
-		<firstResultingItemIndex>827</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>829</secondItemIndex>
-		<firstResultingItemIndex>830</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>832</secondItemIndex>
-		<firstResultingItemIndex>833</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>838</secondItemIndex>
-		<firstResultingItemIndex>839</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
 		<secondItemIndex>841</secondItemIndex>
-		<firstResultingItemIndex>842</firstResultingItemIndex>
+		<firstResultingItemIndex>756</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>844</secondItemIndex>
-		<firstResultingItemIndex>845</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>858</secondItemIndex>
-		<firstResultingItemIndex>859</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>861</secondItemIndex>
-		<firstResultingItemIndex>862</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>791</firstItemIndex>
-		<secondItemIndex>864</secondItemIndex>
+		<secondItemIndex>173</secondItemIndex>
 		<firstResultingItemIndex>865</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<secondResultingItemIndex>757</secondResultingItemIndex>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>791</firstItemIndex>
 		<secondItemIndex>867</secondItemIndex>
-		<firstResultingItemIndex>868</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<firstResultingItemIndex>865</firstResultingItemIndex>
+		<secondResultingItemIndex>757</secondResultingItemIndex>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>193</secondItemIndex>
-		<firstResultingItemIndex>837</firstResultingItemIndex>
+		<secondItemIndex>167</secondItemIndex>
+		<firstResultingItemIndex>754</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>803</secondItemIndex>
-		<firstResultingItemIndex>805</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>806</secondItemIndex>
-		<firstResultingItemIndex>808</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>809</secondItemIndex>
-		<firstResultingItemIndex>812</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>813</secondItemIndex>
-		<firstResultingItemIndex>815</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>826</secondItemIndex>
-		<firstResultingItemIndex>828</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>829</secondItemIndex>
-		<firstResultingItemIndex>831</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>832</secondItemIndex>
-		<firstResultingItemIndex>834</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>838</secondItemIndex>
-		<firstResultingItemIndex>840</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>792</firstItemIndex>
 		<secondItemIndex>841</secondItemIndex>
-		<firstResultingItemIndex>843</firstResultingItemIndex>
+		<firstResultingItemIndex>754</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>844</secondItemIndex>
-		<firstResultingItemIndex>846</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>858</secondItemIndex>
-		<firstResultingItemIndex>860</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>861</secondItemIndex>
-		<firstResultingItemIndex>863</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
-		<APCost>150</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>792</firstItemIndex>
-		<secondItemIndex>864</secondItemIndex>
+		<secondItemIndex>173</secondItemIndex>
 		<firstResultingItemIndex>866</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<secondResultingItemIndex>755</secondResultingItemIndex>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>792</firstItemIndex>
 		<secondItemIndex>867</secondItemIndex>
-		<firstResultingItemIndex>869</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>2</mergeType>
+		<firstResultingItemIndex>866</firstResultingItemIndex>
+		<secondResultingItemIndex>755</secondResultingItemIndex>
+		<mergeType>4</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>881</firstItemIndex>
-		<secondItemIndex>803</secondItemIndex>
+		<secondItemIndex>177</secondItemIndex>
 		<firstResultingItemIndex>882</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7318,7 +7246,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>883</firstItemIndex>
-		<secondItemIndex>829</secondItemIndex>
+		<secondItemIndex>164</secondItemIndex>
 		<firstResultingItemIndex>884</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7326,7 +7254,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>885</firstItemIndex>
-		<secondItemIndex>858</secondItemIndex>
+		<secondItemIndex>170</secondItemIndex>
 		<firstResultingItemIndex>886</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -7406,16 +7334,16 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1301</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1301</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7423,23 +7351,23 @@
 	<MERGE>
 		<firstItemIndex>1301</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1302</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1302</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7447,23 +7375,23 @@
 	<MERGE>
 		<firstItemIndex>1302</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1303</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1303</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7471,23 +7399,23 @@
 	<MERGE>
 		<firstItemIndex>1303</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1304</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1304</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7495,23 +7423,23 @@
 	<MERGE>
 		<firstItemIndex>1304</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1305</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1305</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7519,23 +7447,23 @@
 	<MERGE>
 		<firstItemIndex>1305</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1306</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1306</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7543,23 +7471,23 @@
 	<MERGE>
 		<firstItemIndex>1306</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1307</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1307</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7567,23 +7495,23 @@
 	<MERGE>
 		<firstItemIndex>1307</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1308</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1308</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7591,7 +7519,7 @@
 	<MERGE>
 		<firstItemIndex>1308</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7606,16 +7534,16 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1313</firstItemIndex>
-		<secondItemIndex>854</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1313</firstItemIndex>
-		<secondItemIndex>855</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7623,7 +7551,55 @@
 	<MERGE>
 		<firstItemIndex>1313</firstItemIndex>
 		<secondItemIndex>856</secondItemIndex>
-		<firstResultingItemIndex>320</firstResultingItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1314</firstItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1314</firstItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1314</firstItemIndex>
+		<secondItemIndex>856</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1315</firstItemIndex>
+		<secondItemIndex>194</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1315</firstItemIndex>
+		<secondItemIndex>195</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
+		<secondResultingItemIndex>0</secondResultingItemIndex>
+		<mergeType>6</mergeType>
+		<APCost>150</APCost>
+	</MERGE>
+	<MERGE>
+		<firstItemIndex>1315</firstItemIndex>
+		<secondItemIndex>856</secondItemIndex>
+		<firstResultingItemIndex>382</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>6</mergeType>
 		<APCost>150</APCost>
@@ -7662,7 +7638,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1524</firstItemIndex>
-		<secondItemIndex>401</secondItemIndex>
+		<secondItemIndex>134</secondItemIndex>
 		<firstResultingItemIndex>1531</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>9</mergeType>
@@ -7670,7 +7646,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1524</firstItemIndex>
-		<secondItemIndex>402</secondItemIndex>
+		<secondItemIndex>135</secondItemIndex>
 		<firstResultingItemIndex>1532</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>9</mergeType>
@@ -7702,48 +7678,48 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>20</secondItemIndex>
-		<firstResultingItemIndex>20</firstResultingItemIndex>
+		<secondItemIndex>4264</secondItemIndex>
+		<firstResultingItemIndex>4264</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>43</secondItemIndex>
-		<firstResultingItemIndex>43</firstResultingItemIndex>
+		<secondItemIndex>4273</secondItemIndex>
+		<firstResultingItemIndex>4273</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>55</secondItemIndex>
-		<firstResultingItemIndex>55</firstResultingItemIndex>
+		<secondItemIndex>4284</secondItemIndex>
+		<firstResultingItemIndex>4284</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>65</secondItemIndex>
-		<firstResultingItemIndex>65</firstResultingItemIndex>
+		<secondItemIndex>4338</secondItemIndex>
+		<firstResultingItemIndex>4338</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>68</secondItemIndex>
-		<firstResultingItemIndex>68</firstResultingItemIndex>
+		<secondItemIndex>4337</secondItemIndex>
+		<firstResultingItemIndex>4337</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>69</secondItemIndex>
-		<firstResultingItemIndex>69</firstResultingItemIndex>
+		<secondItemIndex>4276</secondItemIndex>
+		<firstResultingItemIndex>4276</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -8006,8 +7982,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>4268</secondItemIndex>
-		<firstResultingItemIndex>4268</firstResultingItemIndex>
+		<secondItemIndex>12</secondItemIndex>
+		<firstResultingItemIndex>12</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -8134,8 +8110,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>4300</secondItemIndex>
-		<firstResultingItemIndex>4300</firstResultingItemIndex>
+		<secondItemIndex>23</secondItemIndex>
+		<firstResultingItemIndex>23</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -8254,8 +8230,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>4364</secondItemIndex>
-		<firstResultingItemIndex>4364</firstResultingItemIndex>
+		<secondItemIndex>28</secondItemIndex>
+		<firstResultingItemIndex>28</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -8406,8 +8382,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>4415</secondItemIndex>
-		<firstResultingItemIndex>4415</firstResultingItemIndex>
+		<secondItemIndex>24</secondItemIndex>
+		<firstResultingItemIndex>24</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -8982,8 +8958,8 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1576</firstItemIndex>
-		<secondItemIndex>4682</secondItemIndex>
-		<firstResultingItemIndex>4682</firstResultingItemIndex>
+		<secondItemIndex>27</secondItemIndex>
+		<firstResultingItemIndex>27</firstResultingItemIndex>
 		<secondResultingItemIndex>1576</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>55</APCost>
@@ -9662,7 +9638,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1661</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9670,7 +9646,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1650</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9678,7 +9654,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1684</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9686,7 +9662,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1685</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9694,7 +9670,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1716</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9702,7 +9678,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1719</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9710,7 +9686,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1649</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>786</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9718,7 +9694,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1661</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9726,7 +9702,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1650</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9734,7 +9710,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1684</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9742,7 +9718,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1685</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9750,7 +9726,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1716</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9758,7 +9734,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1719</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9766,7 +9742,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1665</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>786</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9774,7 +9750,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1661</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9782,7 +9758,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1650</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9790,7 +9766,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1684</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9798,7 +9774,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1685</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9806,7 +9782,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1716</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9814,7 +9790,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1719</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9822,7 +9798,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1666</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>786</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9830,7 +9806,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1661</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9838,7 +9814,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1650</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9846,7 +9822,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1684</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9854,7 +9830,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1685</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9862,7 +9838,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1716</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9870,7 +9846,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>1719</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -9878,7 +9854,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>1676</firstItemIndex>
-		<secondItemIndex>191</secondItemIndex>
+		<secondItemIndex>758</secondItemIndex>
 		<firstResultingItemIndex>764</firstResultingItemIndex>
 		<secondResultingItemIndex>786</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -10311,7 +10287,7 @@
 	<MERGE>
 		<firstItemIndex>4267</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>20</firstResultingItemIndex>
+		<firstResultingItemIndex>4264</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -10335,7 +10311,7 @@
 	<MERGE>
 		<firstItemIndex>4271</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>4268</firstResultingItemIndex>
+		<firstResultingItemIndex>12</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -10359,7 +10335,7 @@
 	<MERGE>
 		<firstItemIndex>4275</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>43</firstResultingItemIndex>
+		<firstResultingItemIndex>4273</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -10383,7 +10359,7 @@
 	<MERGE>
 		<firstItemIndex>4279</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>69</firstResultingItemIndex>
+		<firstResultingItemIndex>4276</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -10431,7 +10407,7 @@
 	<MERGE>
 		<firstItemIndex>4287</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>55</firstResultingItemIndex>
+		<firstResultingItemIndex>4284</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -10463,7 +10439,7 @@
 	<MERGE>
 		<firstItemIndex>4303</firstItemIndex>
 		<secondItemIndex>424</secondItemIndex>
-		<firstResultingItemIndex>4300</firstResultingItemIndex>
+		<firstResultingItemIndex>23</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>90</APCost>
@@ -12047,7 +12023,7 @@
 	<MERGE>
 		<firstItemIndex>4981</firstItemIndex>
 		<secondItemIndex>4982</secondItemIndex>
-		<firstResultingItemIndex>4979</firstResultingItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
 		<secondResultingItemIndex>4985</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -12063,7 +12039,7 @@
 	<MERGE>
 		<firstItemIndex>4981</firstItemIndex>
 		<secondItemIndex>4986</secondItemIndex>
-		<firstResultingItemIndex>4979</firstResultingItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
 		<secondResultingItemIndex>4988</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -12079,7 +12055,7 @@
 	<MERGE>
 		<firstItemIndex>4981</firstItemIndex>
 		<secondItemIndex>4989</secondItemIndex>
-		<firstResultingItemIndex>4979</firstResultingItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
 		<secondResultingItemIndex>4990</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -12087,7 +12063,7 @@
 	<MERGE>
 		<firstItemIndex>4981</firstItemIndex>
 		<secondItemIndex>4991</secondItemIndex>
-		<firstResultingItemIndex>4979</firstResultingItemIndex>
+		<firstResultingItemIndex>20</firstResultingItemIndex>
 		<secondResultingItemIndex>4993</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>150</APCost>
@@ -12110,7 +12086,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>4985</firstItemIndex>
-		<secondItemIndex>4979</secondItemIndex>
+		<secondItemIndex>20</secondItemIndex>
 		<firstResultingItemIndex>4982</firstResultingItemIndex>
 		<secondResultingItemIndex>4981</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -12166,7 +12142,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>4988</firstItemIndex>
-		<secondItemIndex>4979</secondItemIndex>
+		<secondItemIndex>20</secondItemIndex>
 		<firstResultingItemIndex>4986</firstResultingItemIndex>
 		<secondResultingItemIndex>4981</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -12222,7 +12198,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>4990</firstItemIndex>
-		<secondItemIndex>4979</secondItemIndex>
+		<secondItemIndex>20</secondItemIndex>
 		<firstResultingItemIndex>4989</firstResultingItemIndex>
 		<secondResultingItemIndex>4981</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -12254,7 +12230,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>4993</firstItemIndex>
-		<secondItemIndex>4979</secondItemIndex>
+		<secondItemIndex>20</secondItemIndex>
 		<firstResultingItemIndex>4991</firstResultingItemIndex>
 		<secondResultingItemIndex>4981</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -12503,7 +12479,7 @@
 	<MERGE>
 		<firstItemIndex>5205</firstItemIndex>
 		<secondItemIndex>5204</secondItemIndex>
-		<firstResultingItemIndex>4698</firstResultingItemIndex>
+		<firstResultingItemIndex>7</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
 		<APCost>50</APCost>
@@ -12910,7 +12886,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5311</firstItemIndex>
-		<secondItemIndex>56</secondItemIndex>
+		<secondItemIndex>4375</secondItemIndex>
 		<firstResultingItemIndex>5310</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -12918,7 +12894,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5311</firstItemIndex>
-		<secondItemIndex>4374</secondItemIndex>
+		<secondItemIndex>34</secondItemIndex>
 		<firstResultingItemIndex>5310</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -13030,7 +13006,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5361</firstItemIndex>
-		<secondItemIndex>4453</secondItemIndex>
+		<secondItemIndex>13</secondItemIndex>
 		<firstResultingItemIndex>5363</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -13062,7 +13038,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5365</firstItemIndex>
-		<secondItemIndex>4458</secondItemIndex>
+		<secondItemIndex>21</secondItemIndex>
 		<firstResultingItemIndex>5366</firstResultingItemIndex>
 		<secondResultingItemIndex>0</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -13110,7 +13086,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5369</firstItemIndex>
-		<secondItemIndex>4446</secondItemIndex>
+		<secondItemIndex>36</secondItemIndex>
 		<firstResultingItemIndex>5370</firstResultingItemIndex>
 		<secondResultingItemIndex>482</secondResultingItemIndex>
 		<mergeType>4</mergeType>
@@ -13134,7 +13110,7 @@
 	</MERGE>
 	<MERGE>
 		<firstItemIndex>5369</firstItemIndex>
-		<secondItemIndex>4446</secondItemIndex>
+		<secondItemIndex>36</secondItemIndex>
 		<firstResultingItemIndex>5371</firstResultingItemIndex>
 		<secondResultingItemIndex>482</secondResultingItemIndex>
 		<mergeType>4</mergeType>

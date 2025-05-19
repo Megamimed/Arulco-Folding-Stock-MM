@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TRANSFORMATIONS_LIST>
 	<TRANSFORM>
-		<usItem>2</usItem>
-		<usResult1>4710</usResult1>
+		<usItem>6</usItem>
+		<usResult1>4358</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -14,13 +14,13 @@
 		<usResult10>0</usResult10>
 		<usAPCost>0</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>9x18mm</szMenuRowText>
-		<szTooltipText>Load 9x18mm</szTooltipText>
+		<szMenuRowText>.38 Special</szMenuRowText>
+		<szTooltipText>Load .38 Special</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>8</usItem>
-		<usResult1>4950</usResult1>
-		<usResult2>0</usResult2>
+		<usItem>7</usItem>
+		<usResult1>5205</usResult1>
+		<usResult2>5204</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -29,31 +29,14 @@
 		<usResult8>0</usResult8>
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
+		<usAPCost>50</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Extend Stock</szMenuRowText>
-		<szTooltipText>Extend Stock</szTooltipText>
+		<szMenuRowText>Disassemble</szMenuRowText>
+		<szTooltipText>Unload magazine, then remove the barrel and bolt assembly.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>10</usItem>
-		<usResult1>4034</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Extend Stock</szMenuRowText>
-		<szTooltipText>Extend Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>11</usItem>
-		<usResult1>4577</usResult1>
+		<usResult1>4585</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -70,7 +53,24 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>12</usItem>
-		<usResult1>4816</usResult1>
+		<usResult1>424</usResult1>
+		<usResult2>4271</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>75</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>13</usItem>
+		<usResult1>4454</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -84,23 +84,6 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Retract Stock</szMenuRowText>
 		<szTooltipText>Retract Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>12</usItem>
-		<usResult1>4818</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>9x18mm</szMenuRowText>
-		<szTooltipText>Load 9x18mm</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>14</usItem>
@@ -120,25 +103,8 @@
 		<szTooltipText>Retract Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>20</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4267</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>24</usItem>
-		<usResult1>4078</usResult1>
+		<usItem>16</usItem>
+		<usResult1>5045</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -154,8 +120,25 @@
 		<szTooltipText>Retract Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>27</usItem>
-		<usResult1>4038</usResult1>
+		<usItem>23</usItem>
+		<usResult1>424</usResult1>
+		<usResult2>4303</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>75</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>32</usItem>
+		<usResult1>4963</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -171,76 +154,8 @@
 		<szTooltipText>Retract Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>28</usItem>
-		<usResult1>4082</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Retract Stock</szMenuRowText>
-		<szTooltipText>Retract Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>42</usItem>
-		<usResult1>1543</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Fill Sandbags</szMenuRowText>
-		<szTooltipText>Use shovel to fill sandbags.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>43</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4275</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>55</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4287</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>56</usItem>
-		<usResult1>5375</usResult1>
+		<usItem>34</usItem>
+		<usResult1>5374</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -253,11 +168,11 @@
 		<usAPCost>1</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Mag Feed</szMenuRowText>
-		<szTooltipText>Switch to Magazine Feed (1 AP)</szTooltipText>
+		<szTooltipText>Switch to Magazine feed (1 AP)</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>67</usItem>
-		<usResult1>55</usResult1>
+		<usItem>36</usItem>
+		<usResult1>5373</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -267,31 +182,48 @@
 		<usResult8>0</usResult8>
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
+		<usAPCost>10</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Normalize</szMenuRowText>
-		<szTooltipText>Convert map compatibility copy to main sequence.</szTooltipText>
+		<szMenuRowText>Mag Feed</szMenuRowText>
+		<szTooltipText>Switch to Magazine Feed (1 SP)</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>69</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4279</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
+		<usItem>194</usItem>
+		<usResult1>382</usResult1>
+		<usResult2>382</usResult2>
+		<usResult3>382</usResult3>
+		<usResult4>382</usResult4>
 		<usResult5>0</usResult5>
 		<usResult6>0</usResult6>
 		<usResult7>0</usResult7>
 		<usResult8>0</usResult8>
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+		<usAPCost>100</usAPCost>
+		<iBPCost>25</iBPCost>
+		<szMenuRowText>Tear into rags</szMenuRowText>
+		<szTooltipText>Tear into rags</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>195</usItem>
+		<usResult1>382</usResult1>
+		<usResult2>382</usResult2>
+		<usResult3>382</usResult3>
+		<usResult4>382</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>100</usAPCost>
+		<iBPCost>25</iBPCost>
+		<szMenuRowText>Tear into rags</szMenuRowText>
+		<szTooltipText>Tear into rags</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>208</usItem>
-		<usResult1>208</usResult1>
+		<usResult1>535</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -301,10 +233,10 @@
 		<usResult8>0</usResult8>
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
+		<usAPCost>150</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Ready Scope (Bugfix)</szMenuRowText>
-		<szTooltipText>Transform legacy map drop item into usable variable magnification scope (3-9x).</szTooltipText>
+		<szMenuRowText>Ready Scope</szMenuRowText>
+		<szTooltipText>Transform map drop item into usable scope.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>493</usItem>
@@ -475,23 +407,6 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>RIS Mount</szMenuRowText>
 		<szTooltipText>Use Scope on RIS Optics Rail.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>522</usItem>
-		<usResult1>522</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Ready Scope (Bugfix)</szMenuRowText>
-		<szTooltipText>Transform legacy map drop item into usable variable magnification scope (2-5x).</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>536</usItem>
@@ -919,45 +834,11 @@
 		<szTooltipText>Remove from pistol grip and open to hold weapon.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>854</usItem>
-		<usResult1>320</usResult1>
-		<usResult2>320</usResult2>
-		<usResult3>320</usResult3>
-		<usResult4>320</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>100</usAPCost>
-		<iBPCost>25</iBPCost>
-		<szMenuRowText>Tear into rags</szMenuRowText>
-		<szTooltipText>Tear into rags</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>855</usItem>
-		<usResult1>320</usResult1>
-		<usResult2>320</usResult2>
-		<usResult3>320</usResult3>
-		<usResult4>320</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>100</usAPCost>
-		<iBPCost>25</iBPCost>
-		<szMenuRowText>Tear into rags</szMenuRowText>
-		<szTooltipText>Tear into rags</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>856</usItem>
-		<usResult1>320</usResult1>
-		<usResult2>320</usResult2>
-		<usResult3>320</usResult3>
-		<usResult4>320</usResult4>
+		<usResult1>382</usResult1>
+		<usResult2>382</usResult2>
+		<usResult3>382</usResult3>
+		<usResult4>382</usResult4>
 		<usResult5>0</usResult5>
 		<usResult6>0</usResult6>
 		<usResult7>0</usResult7>
@@ -1002,6 +883,57 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>AT</szMenuRowText>
 		<szTooltipText>Extend the nose to take out reactive armour</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1315</usItem>
+		<usResult1>1543</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Fill Sandbags</szMenuRowText>
+		<szTooltipText>Use shovel to fill sandbags.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1421</usItem>
+		<usResult1>4272</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Normalize</szMenuRowText>
+		<szTooltipText>Convert map compatibility copy to main sequence.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1426</usItem>
+		<usResult1>4284</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Normalize</szMenuRowText>
+		<szTooltipText>Convert map compatibility copy to main sequence.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>1528</usItem>
@@ -1056,7 +988,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>1531</usItem>
-		<usResult1>401</usResult1>
+		<usResult1>134</usResult1>
 		<usResult2>1524</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -1073,7 +1005,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>1532</usItem>
-		<usResult1>402</usResult1>
+		<usResult1>135</usResult1>
 		<usResult2>1524</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -1158,7 +1090,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>1543</usItem>
-		<usResult1>42</usResult1>
+		<usResult1>1315</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -1481,10 +1413,10 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>3747</usItem>
-		<usResult1>320</usResult1>
-		<usResult2>320</usResult2>
-		<usResult3>320</usResult3>
-		<usResult4>320</usResult4>
+		<usResult1>382</usResult1>
+		<usResult2>382</usResult2>
+		<usResult3>382</usResult3>
+		<usResult4>382</usResult4>
 		<usResult5>0</usResult5>
 		<usResult6>0</usResult6>
 		<usResult7>0</usResult7>
@@ -1769,8 +1701,25 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4033</usItem>
+		<usResult1>4034</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Extend Stock</szMenuRowText>
+		<szTooltipText>Extend Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4034</usItem>
-		<usResult1>10</usResult1>
+		<usResult1>4033</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -1820,8 +1769,25 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4037</usItem>
+		<usResult1>4038</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Retract Stock</szMenuRowText>
+		<szTooltipText>Retract Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4038</usItem>
-		<usResult1>27</usResult1>
+		<usResult1>4037</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -2092,8 +2058,25 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4077</usItem>
+		<usResult1>4078</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Retract Stock</szMenuRowText>
+		<szTooltipText>Retract Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4078</usItem>
-		<usResult1>24</usResult1>
+		<usResult1>4077</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -2109,8 +2092,25 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4081</usItem>
+		<usResult1>4082</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Retract Stock</szMenuRowText>
+		<szTooltipText>Retract Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4082</usItem>
-		<usResult1>28</usResult1>
+		<usResult1>4081</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -3554,6 +3554,23 @@
 		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4264</usItem>
+		<usResult1>424</usResult1>
+		<usResult2>4267</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>75</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4265</usItem>
 		<usResult1>425</usResult1>
 		<usResult2>4267</usResult2>
@@ -3574,23 +3591,6 @@
 		<usItem>4266</usItem>
 		<usResult1>426</usResult1>
 		<usResult2>4267</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>4268</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4271</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -3657,8 +3657,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4273</usItem>
-		<usResult1>4272</usResult1>
-		<usResult2>0</usResult2>
+		<usResult1>424</usResult1>
+		<usResult2>4275</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -3667,15 +3667,32 @@
 		<usResult8>0</usResult8>
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
+		<usAPCost>75</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Normalize</szMenuRowText>
-		<szTooltipText>Convert map compatibility copy to main sequence.</szTooltipText>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4274</usItem>
 		<usResult1>426</usResult1>
 		<usResult2>4275</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>75</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4276</usItem>
+		<usResult1>424</usResult1>
+		<usResult2>4279</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -3775,6 +3792,23 @@
 		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4284</usItem>
+		<usResult1>424</usResult1>
+		<usResult2>4287</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>75</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>separate receivers</szMenuRowText>
+		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4285</usItem>
 		<usResult1>425</usResult1>
 		<usResult2>4287</usResult2>
@@ -3858,23 +3892,6 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Extend Stock</szMenuRowText>
 		<szTooltipText>Extend Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>4300</usItem>
-		<usResult1>424</usResult1>
-		<usResult2>4303</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>75</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>separate receivers</szMenuRowText>
-		<szTooltipText>Pop out the push pins to separate the upper and lower receivers.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4301</usItem>
@@ -4149,25 +4166,8 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4357</usItem>
-		<usResult1>4358</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>.38 Special</szMenuRowText>
-		<szTooltipText>Load .38 Special</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4358</usItem>
-		<usResult1>4357</usResult1>
+		<usResult1>6</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -4217,8 +4217,8 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4374</usItem>
-		<usResult1>5374</usResult1>
+		<usItem>4375</usItem>
+		<usResult1>5375</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -4231,7 +4231,7 @@
 		<usAPCost>1</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Mag Feed</szMenuRowText>
-		<szTooltipText>Switch to Magazine feed (1 AP)</szTooltipText>
+		<szTooltipText>Switch to Magazine Feed (1 AP)</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4376</usItem>
@@ -4778,23 +4778,6 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4446</usItem>
-		<usResult1>5373</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>10</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Mag Feed</szMenuRowText>
-		<szTooltipText>Switch to Magazine Feed (1 SP)</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4447</usItem>
 		<usResult1>5372</usResult1>
 		<usResult2>0</usResult2>
@@ -4846,25 +4829,8 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4453</usItem>
-		<usResult1>4454</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Retract Stock</szMenuRowText>
-		<szTooltipText>Retract Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4454</usItem>
-		<usResult1>4453</usResult1>
+		<usResult1>13</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -6036,8 +6002,25 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4576</usItem>
+		<usResult1>4577</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Extend Stock</szMenuRowText>
+		<szTooltipText>Extend Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4577</usItem>
-		<usResult1>11</usResult1>
+		<usResult1>4576</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -6189,25 +6172,8 @@
 		<szTooltipText>Switch to Magazine Feed (10 AP)</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4584</usItem>
-		<usResult1>4585</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Extend Stock</szMenuRowText>
-		<szTooltipText>Extend Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4585</usItem>
-		<usResult1>4584</usResult1>
+		<usResult1>10</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -7090,23 +7056,6 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4698</usItem>
-		<usResult1>5205</usResult1>
-		<usResult2>5204</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>50</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Disassemble</szMenuRowText>
-		<szTooltipText>Unload magazine, then remove the barrel and bolt assembly.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4699</usItem>
 		<usResult1>5206</usResult1>
 		<usResult2>5204</usResult2>
@@ -7141,8 +7090,25 @@
 		<szTooltipText>Unload magazine, then remove the barrel and bolt assembly.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4709</usItem>
+		<usResult1>4710</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>9x18mm</szMenuRowText>
+		<szTooltipText>Load 9x18mm</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4710</usItem>
-		<usResult1>2</usResult1>
+		<usResult1>4709</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -7923,8 +7889,42 @@
 		<szTooltipText>Retract Stock and Grip</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4815</usItem>
+		<usResult1>4816</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Retract Stock</szMenuRowText>
+		<szTooltipText>Retract Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4815</usItem>
+		<usResult1>4818</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>9x18mm</szMenuRowText>
+		<szTooltipText>Load 9x18mm</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4816</usItem>
-		<usResult1>12</usResult1>
+		<usResult1>4815</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -7975,7 +7975,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4818</usItem>
-		<usResult1>12</usResult1>
+		<usResult1>4815</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -8926,8 +8926,25 @@
 		<szTooltipText>Retract Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4949</usItem>
+		<usResult1>4950</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Extend Stock</szMenuRowText>
+		<szTooltipText>Extend Stock</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4950</usItem>
-		<usResult1>8</usResult1>
+		<usResult1>4949</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -9011,25 +9028,8 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4962</usItem>
-		<usResult1>4963</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Retract Stock</szMenuRowText>
-		<szTooltipText>Retract Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4963</usItem>
-		<usResult1>4962</usResult1>
+		<usResult1>32</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -9521,25 +9521,8 @@
 		<szTooltipText>Extend Stock</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5044</usItem>
-		<usResult1>5045</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>5</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Retract Stock</szMenuRowText>
-		<szTooltipText>Retract Stock</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>5045</usItem>
-		<usResult1>5044</usResult1>
+		<usResult1>16</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -13007,7 +12990,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5373</usItem>
-		<usResult1>4446</usResult1>
+		<usResult1>36</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -13024,7 +13007,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5374</usItem>
-		<usResult1>4374</usResult1>
+		<usResult1>34</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -13041,7 +13024,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5375</usItem>
-		<usResult1>56</usResult1>
+		<usResult1>4375</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>

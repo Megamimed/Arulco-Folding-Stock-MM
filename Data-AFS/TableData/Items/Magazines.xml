@@ -8436,7 +8436,7 @@
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
-		<uiIndex>1205</uiIndex>
+		<uiIndex>1205</uiIndex>		<!--	30 round .22 WMR HP	-->
 		<ubCalibre>68</ubCalibre>
 		<ubMagSize>30</ubMagSize>
 		<ubAmmoType>1</ubAmmoType>
@@ -8730,7 +8730,7 @@
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
-		<uiIndex>1247</uiIndex>
+		<uiIndex>1247</uiIndex>		<!--	30 round .22 LR HP	-->
 		<ubCalibre>69</ubCalibre>
 		<ubMagSize>30</ubMagSize>
 		<ubAmmoType>1</ubAmmoType>
@@ -9503,7 +9503,7 @@
 		<uiIndex>1357</uiIndex>
 		<ubCalibre>73</ubCalibre>
 		<ubMagSize>3</ubMagSize>
-		<ubAmmoType>74</ubAmmoType>
+		<ubAmmoType>11</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>

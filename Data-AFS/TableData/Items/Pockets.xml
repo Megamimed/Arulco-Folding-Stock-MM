@@ -2339,7 +2339,6 @@
 		<pType>1</pType>
 		<pRestriction>8192</pRestriction>
 		<pVolume>1</pVolume>
-		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
 		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
 		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
